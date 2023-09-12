@@ -3,6 +3,8 @@
 Clone the main repository into your system.
 
 ## Backend
+Technologies used: Javascript, Node, Express, Socket IO ( https://socket.io/ )
+
 Navigate to the Backend Folder
 
 Run the following commands:
@@ -14,6 +16,7 @@ npm run start
 After running npm run start you should see a console message saying the server started successfully.
 
 ## Frontend
+Technologies used: Javascript, Phaser 3 ( https://photonstorm.github.io/phaser3-docs/index.html ), Socket IO
 
 Navigate to the Frontend Folder
 
