@@ -24,7 +24,9 @@ npm install
 npm start
 ```
 After running npm start you should see the webpack starting up and a browser window should automatically load set to localhost: 8080.
+
 To Simulate a second player, open a new browser tab and Navigate to http://localhost:8080.
+
 You will see a log on the server console showing that a second player has connected.
 
 Enjoy the Game!
